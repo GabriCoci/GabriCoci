@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GabriCoci
-- 👀 I’m interested in Python and Web Development
+- 👀 I’m interested in Python, Django and Web Development
 - 🌱 I’m currently learning Python/C
-- 💞️ I’m looking to collaborate on any kind of interesting project
+- 🤝 I’m looking to collaborate on any kind of interesting project
 - 📫 How to reach me: don't (jk reach me here)
 
 <!---
