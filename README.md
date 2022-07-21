@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @GabriCoci
-- 👨‍💻 I’m interested in Python, Django and Web Development
-- 📚 I’m currently learning Python, C and Django
-- 🪐 I’m looking to collaborate on any kind of interesting project
-- 🛰️ How to reach me: don't (jk reach me here)
+- 👨‍💻 My interests include Web Development, Algorithms, Linux
+- 📚 I’m currently learning Java, ASP.NET and Flutter
+- 🧬 I have some experience in Python, C and Django
+- 🪐 I’m looking to collaborate on any kind of interesting project!
+- 🛰️ Reach me through LinkedIn -> linkedin[dot]com/in/gabriele-cocino-3b5002221
 
 <!---
 GabriCoci/GabriCoci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
